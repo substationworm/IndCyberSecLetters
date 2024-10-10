@@ -49,6 +49,18 @@ On September 18, 2024, the U.S. Environmental Protection Agency (EPA) [released]
 - Establish an allowlist that permits only IP addresses from authorized devices.
 - Practice and maintain the ability to operate WWS manually.
 
+## 📚 References
+
+- Cybersecurity and Infrastructure Security Agency. (2024, May 1). *Defending OT Operations Against Ongoing Pro-Russia Hacktivist Activity*. [<link>](https://www.cisa.gov/resources-tools/resources/defending-ot-operations-against-ongoing-pro-russia-hacktivist-activity)
+- U.S. Environmental Protection Agency. (2024, September 18). *EPA Guidance on Improving Cybersecurity at Drinking Water and Wastewater Systems* (EPA 817-B-23-001). [<link>](https://www.cisa.gov/resources-tools/resources/epa-guidance-improving-cybersecurity-drinking-water-and-wastewater-systems)
+- City of Arkansas City. (2024, September 22). *City of Arkansas City Faces Cybersecurity Incident*. [<link>](https://www.arkcity.org/environmental-services/page/city-arkansas-city-faces-cybersecurity-incident)
+- KWCH 12 News. (2024, September 23). *Arkansas City Water Plant Hit by Cyberattack Over Weekend* [Video]. [<link>](https://www.kwch.com/video/2024/09/23/arkansas-city-water-plant-hit-by-cyberattack-over-weekend/)
+- Gatlan, S. (2024, September 24). *Kansas Water Plant Cyberattack Forces Switch to Manual Operations*. Bleeping Computer, Security. [<link>](https://www.bleepingcomputer.com/news/security/kansas-water-plant-cyberattack-forces-switch-to-manual-operations/)
+- KWCH 12 News. (2024, September 24). *Arkansas City Working to Get Water Treatment Plant Back Online After Cyberattack* [Video]. [<link>](https://www.kwch.com/video/2024/09/24/arkansas-city-working-get-water-treatment-plant-back-online-after-cyberattack/)
+- Waldman, A. (2024, September 24). *Arkansas City Water Treatment Facility Hit by Cyberattack*. TechTarget, News. [<link>](https://www.techtarget.com/searchsecurity/news/366611812/Arkansas-City-water-treatment-facility-hit-by-cyberattack)
+- Water Information Sharing and Analysis Center. (2024, September 24). *Incident Awareness: Ransomware Attackers Target Kansas Water Treatment Facility*. [<link>](https://www.waterisac.org/portal/incident-awareness-%E2%80%93-ransomware-attackers-target-kansas-water-treatment-facility)
+- Cybersecurity & Infrastructure Security Agency. (2024, September 25). *Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means*. [<link>](https://www.cisa.gov/news-events/alerts/2024/09/25/threat-actors-continue-exploit-otics-through-unsophisticated-means)
+
 **🔖 Nomenclature**
 
 - DMZ: Demilitarized zone.
