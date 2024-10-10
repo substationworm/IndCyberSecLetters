@@ -1,6 +1,8 @@
 # Ind.Cyber.Sec Letters
 
-![](IndCyberSecLetters-Header.png "IndCyberSec. Letters")
+![](IndCyberSecLetters-MainHeader.png "Ind.Cyber.Sec Letters")
+
+**Ind.Cyber.Sec Letters** is a collection of studies and analyses of incidents in the field of industrial cybersecurity.
 
 **Ind.Cyber.Sec Letters** is an initiative linked to university extension/outreach projects coordinated by [Prof. Dr. Luiz F. Freitas-Gutierres](https://www.linkedin.com/in/lffreitas-gutierres/) and conducted at the Federal University of Santa Maria ([UFSM](https://www.ufsm.br/)), in partnership with external institutions:
 
@@ -12,4 +14,4 @@
 *All issues*:
 
 - 2024 - Volume 01
-    - Issue 01
+    - [Issue 01](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue01/Issue01.md)
