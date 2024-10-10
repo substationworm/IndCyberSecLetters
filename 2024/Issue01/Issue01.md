@@ -67,3 +67,5 @@ On September 18, 2024, the U.S. Environmental Protection Agency (EPA) [released]
 ---
 
 *Ind.Cyber.Sec Letters* . Issue 01 . 2024-10-10
+
+[Prof. Dr. Luiz F. Freitas-Gutierres](https://www.linkedin.com/in/lffreitas-gutierres/)
