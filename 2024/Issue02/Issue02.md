@@ -47,20 +47,20 @@ Based on analyses conducted by OpenAI, several accounts were banned, policy viol
 
 ### Cyber Av3ngers (G1027)
 
-![](Fig01.png "Figure 01"){:height 219, :width 269.25}
+![](Fig01.png "Figure 01")
 
 - With significant attacks dating back to 2023, Cyber Av3ngers is a group that typically targets SCADA, PLC, and industrial control systems (ICS) systems, particularly within water and wastewater systems (WWS), energy systems, and the broader manufacturing sector. The group primarily focuses on companies associated with Israel, the United States, or Ireland. Its operations emphasize causing damage to internet-connected devices manufactured by Israeli companies. There are suspicions that Cyber Av3ngers is linked to another IRGC-associated group, the Soldiers of Solomon. Additionally, Cyber Av3ngers is also known by variations of its name, such as CyberAv3ngers, CyberAveng3rs, and Cyber Avengers.
 - This APT group's campaigns frequently exploit default passwords and widely documented PLC CVEs within the cybersecurity community, as well as free and open-source software (FOSS) for reconnaissance and exploitation of ICS. However, some alleged compromises of critical infrastructure in Israel attributed to the group have been proven false.
 - Notably, a 2023 campaign ([C0031](https://attack.mitre.org/campaigns/C0031)) targeted Unitronics PLCs and HMIs, resulting in the defacement of these devices' user interfaces, as illustrated in the images below (the first [published](https://www.unitronicsplc.com/) by JNS and credited to Geller & Harod; the second [featured](https://www.cbsnews.com/pittsburgh/news/municipal-water-authority-of-aliquippa-hacked-iranian-backed-cyber-group/) by CBS News and credited to the Municipal Water Authority of Aliquippa), with the insertion of anti-Israel comments. The confirmed successful attacks primarily targeted WWS in Israel and the United States.
 
-![](Fig02.jpg "Figure 02"){:height 461, :width 558}
+![](Fig02.jpg "Figure 02")
 
-![](Fig03.png "Figure 03"){:height 461, :width 558}
+![](Fig03.png "Figure 03")
 
 - In general, the compromised devices were [Unitronics Vision series PLCs](https://www.unitronicsplc.com/programmable-controllers-vision-series/), which were exposed to the Internet with default passwords on TCP port 20256. Following the incident, [CVE-2023-6448](https://nvd.nist.gov/vuln/detail/CVE-2023-6448) was published, addressing this type of cyberattack.
 - Cyber Av3ngers maintains a [profile on X](https://x.com/CyberAveng3rs) (formerly known as Twitter), where they have previously announced the compromise of water treatment facilities.
 
-![](Fig04.jpg "Figure 04"){:height 697.5, :width 491.625}
+![](Fig04.png "Figure 04")
 
 - Cyber Av3ngers also claims responsibility for:
     - Attacks on Israel's railway infrastructure.
@@ -84,27 +84,27 @@ Based on analyses conducted by OpenAI, several accounts were banned, policy viol
 
 ## 📚 References
 
-- Kumar, M. (2018, August 09). *Researchers Developed Artificial Intelligence-Powered Stealthy Malware*. The Hacker News. [<link>](https://thehackernews.com/2018/08/artificial-intelligence-malware.html)
-- Nimmo, B. (2020, September). *The Breakout Scale: Measuring the Impact of Influence Operations*. Brookings, Foreign Policy. [<link>](https://www.brookings.edu/articles/the-breakout-scale-measuring-the-impact-of-influence-operations/)
-- Trend Micro Research. (2021, December 06). *Malicious Uses and Abuses of Artificial Intelligence*. Europol's European Cybercrime Centre, United Nations Interregional Crime and Justice Research Institute. [<link>](https://www.europol.europa.eu/publications-events/publications/malicious-uses-and-abuses-of-artificial-intelligence)
-- Dor, D. (2023, January 15). *It's up to us to Determine if Generative AI Helps or Harms our World*. World Economic Forum, Opinion. [<link>](https://www.weforum.org/agenda/2023/01/davos23-generativeai-technology-artificial-intelligence/)
-- Schneier, B., & Raghavan, B. (2023, April 4). *Brace Yourself for a Tidal Wave of ChatGPT Email Scams*. WIRED, Ideas. [<link>](https://www.wired.com/story/large-language-model-phishing-scams/)
-- JNC. (2023, April 10). *Cyber Attack Shutters Galilee Farm Water Controllers*. Update Desk. [<link>](https://www.jns.org/cyberattack-shutters-galilee-farm-water-controllers/)
-- National Institute of Standards and Technology. (2023, May 12). *CVE-2023-6448*. Information Technology Laboratory, National Vulnerability Database. [<link>](https://nvd.nist.gov/vuln/detail/CVE-2023-6448)
-- Sharma, A. (2023, July 30). *Israel's Largest Oil Refinery Website Offline After DDoS Attack*. BleepingComputer, News, Security. [<link>](https://www.bleepingcomputer.com/news/security/israels-largest-oil-refinery-website-offline-after-ddos-attack/)
-- Dark Reading. (2023, July 31). *Website of Israeli Oil Refinery Taken Offline by Pro-Iranian Attackers*. Cyberattacks & Data Breaches. [<link>](https://www.darkreading.com/cyberattacks-data-breaches/israeli-oil-refinery-taken-offline-pro-iranian-attackers)
-- Tziakouris, G. (2023, August 14). *The Rise of AI-Powered Criminals: Identifying Threats and Opportunities*. Talos, On the Radar. [<link>](https://blog.talosintelligence.com/the-rise-of-ai-powered-criminals/)
-- Bugcrowd. (2023, September 15). *Inside the Mind of a Hacker (ITMOAH): Security in the Age of Generative AI*. [<link>](https://www.bugcrowd.com/blog/inside-the-mind-of-a-hacker-2023-edition/)
-- Veeneman, P. (2023, October 12). *Digital Battlegrounds: Evolving Hybrid Kinetic Warfare*. Industrial Cyber. [<link>](https://industrialcyber.co/analysis/digital-battlegrounds-evolving-hybrid-kinetic-warfare/)
-- Stanish, E. (2023, November 26). *Municipal Water Authority of Aliquippa Hacked by Iranian-Backed Cyber Group*. CBS News, Crime. [<link>](https://www.cbsnews.com/pittsburgh/news/municipal-water-authority-of-aliquippa-hacked-iranian-backed-cyber-group/)
-- Cybersecurity and Infrastructure Security Agency. (2023, November 28). *Exploitation of Unitronics PLCs Used in Water and Wastewater Systems*. Alert. [<link>](https://www.cisa.gov/news-events/alerts/2023/11/28/exploitation-unitronics-plcs-used-water-and-wastewater-systems#:~:text=CISA%20is%20responding%20to%20active,at%20a%20U.S.%20water%20facility.)
-- Cybersecurity and Infrastructure Security Agency. (2023, December 01). *IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple Sectors, Including U.S. Water and Wastewater Systems Facilities*. Cybersecurity Advisory. [<link>](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
-- Dragos. (2023, July 12). *Cyber Av3ngers Hacktivist Group Targeting Israel-Made OT Devices*. Blog. [<link>](https://www.dragos.com/blog/cyber-av3ngers-hacktivist-group-targeting-israel-made-ot-devices/)
-- Tasnim News Agency. (2023, September 16). *Israeli Rail System Comes Under Cyberattack*. Politics News. [<link>](https://www.tasnimnews.com/en/news/2023/09/16/2956946/israeli-rail-system-comes-under-cyberattack)
-- SOCRadar. (2023, December 22). *Dark Web Profile: Cyber Av3ngers*. Blog. [<link>](https://socradar.io/dark-web-profile-cyber-av3ngers/)
-- Microsoft Threat Intelligence. (2024, February 14). *Staying Ahead of Threat Actors in the Age of AI*. Blog, Threat Intelligence. [<link>](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/)
-- MITRE ATT&CK. (2024, April 10). *Cyber Av3ngers*. Groups, ID G1027. [<link>](https://attack.mitre.org/groups/G1027/)
-- Nimmo, B., & Flossman, M. (2024, October). *Influence and Cyber Operations: An Update*. OpenAI. [<link>](https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf?is=46e0b4e762c0efeca5e232b23baf28a76896b8c8dbf7a5019e28c872940ca0a4)
+- Kumar, M. (2018, August 09). *Researchers Developed Artificial Intelligence-Powered Stealthy Malware*. The Hacker News. [Link](https://thehackernews.com/2018/08/artificial-intelligence-malware.html)
+- Nimmo, B. (2020, September). *The Breakout Scale: Measuring the Impact of Influence Operations*. Brookings, Foreign Policy. [Link](https://www.brookings.edu/articles/the-breakout-scale-measuring-the-impact-of-influence-operations/)
+- Trend Micro Research. (2021, December 06). *Malicious Uses and Abuses of Artificial Intelligence*. Europol's European Cybercrime Centre, United Nations Interregional Crime and Justice Research Institute. [Link](https://www.europol.europa.eu/publications-events/publications/malicious-uses-and-abuses-of-artificial-intelligence)
+- Dor, D. (2023, January 15). *It's up to us to Determine if Generative AI Helps or Harms our World*. World Economic Forum, Opinion. [Link](https://www.weforum.org/agenda/2023/01/davos23-generativeai-technology-artificial-intelligence/)
+- Schneier, B., & Raghavan, B. (2023, April 4). *Brace Yourself for a Tidal Wave of ChatGPT Email Scams*. WIRED, Ideas. [Link](https://www.wired.com/story/large-language-model-phishing-scams/)
+- JNC. (2023, April 10). *Cyber Attack Shutters Galilee Farm Water Controllers*. Update Desk. [Link](https://www.jns.org/cyberattack-shutters-galilee-farm-water-controllers/)
+- National Institute of Standards and Technology. (2023, May 12). *CVE-2023-6448*. Information Technology Laboratory, National Vulnerability Database. [Link](https://nvd.nist.gov/vuln/detail/CVE-2023-6448)
+- Sharma, A. (2023, July 30). *Israel's Largest Oil Refinery Website Offline After DDoS Attack*. BleepingComputer, News, Security. [Link](https://www.bleepingcomputer.com/news/security/israels-largest-oil-refinery-website-offline-after-ddos-attack/)
+- Dark Reading. (2023, July 31). *Website of Israeli Oil Refinery Taken Offline by Pro-Iranian Attackers*. Cyberattacks & Data Breaches. [Link](https://www.darkreading.com/cyberattacks-data-breaches/israeli-oil-refinery-taken-offline-pro-iranian-attackers)
+- Tziakouris, G. (2023, August 14). *The Rise of AI-Powered Criminals: Identifying Threats and Opportunities*. Talos, On the Radar. [Link](https://blog.talosintelligence.com/the-rise-of-ai-powered-criminals/)
+- Bugcrowd. (2023, September 15). *Inside the Mind of a Hacker (ITMOAH): Security in the Age of Generative AI*. [Link](https://www.bugcrowd.com/blog/inside-the-mind-of-a-hacker-2023-edition/)
+- Veeneman, P. (2023, October 12). *Digital Battlegrounds: Evolving Hybrid Kinetic Warfare*. Industrial Cyber. [Link](https://industrialcyber.co/analysis/digital-battlegrounds-evolving-hybrid-kinetic-warfare/)
+- Stanish, E. (2023, November 26). *Municipal Water Authority of Aliquippa Hacked by Iranian-Backed Cyber Group*. CBS News, Crime. [Link](https://www.cbsnews.com/pittsburgh/news/municipal-water-authority-of-aliquippa-hacked-iranian-backed-cyber-group/)
+- Cybersecurity and Infrastructure Security Agency. (2023, November 28). *Exploitation of Unitronics PLCs Used in Water and Wastewater Systems*. Alert. [Link](https://www.cisa.gov/news-events/alerts/2023/11/28/exploitation-unitronics-plcs-used-water-and-wastewater-systems#:~:text=CISA%20is%20responding%20to%20active,at%20a%20U.S.%20water%20facility.)
+- Cybersecurity and Infrastructure Security Agency. (2023, December 01). *IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple Sectors, Including U.S. Water and Wastewater Systems Facilities*. Cybersecurity Advisory. [Link](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
+- Dragos. (2023, July 12). *Cyber Av3ngers Hacktivist Group Targeting Israel-Made OT Devices*. Blog. [Link](https://www.dragos.com/blog/cyber-av3ngers-hacktivist-group-targeting-israel-made-ot-devices/)
+- Tasnim News Agency. (2023, September 16). *Israeli Rail System Comes Under Cyberattack*. Politics News. [Link](https://www.tasnimnews.com/en/news/2023/09/16/2956946/israeli-rail-system-comes-under-cyberattack)
+- SOCRadar. (2023, December 22). *Dark Web Profile: Cyber Av3ngers*. Blog. [Link](https://socradar.io/dark-web-profile-cyber-av3ngers/)
+- Microsoft Threat Intelligence. (2024, February 14). *Staying Ahead of Threat Actors in the Age of AI*. Blog, Threat Intelligence. [Link](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/)
+- MITRE ATT&CK. (2024, April 10). *Cyber Av3ngers*. Groups, ID G1027. [Link](https://attack.mitre.org/groups/G1027/)
+- Nimmo, B., & Flossman, M. (2024, October). *Influence and Cyber Operations: An Update*. OpenAI. [Link](https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf?is=46e0b4e762c0efeca5e232b23baf28a76896b8c8dbf7a5019e28c872940ca0a4)
 
 **🔖 Nomenclature**
 
