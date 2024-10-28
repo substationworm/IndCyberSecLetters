@@ -2,7 +2,7 @@
 
 # 📰 Issue 03: Financial Impacts of Ransomware Can Reach Up to US$1 Million in Critical Infrastructure
 
-Claroty [published](ttps://web-assets.claroty.com/resource-downloads/cps-survey-business-disruptions.pdf) a report from an independent global survey that interviewed 1,100 cybersecurity professionals responsible for the protection of cyber-physical systems (CPS). CPS encompasses operational technology (OT), Internet of Things (IoT), connected medical devices (Internet of Medical Things [IoMT]), and building management systems (BMS). The report highlights the financial impacts and business disruptions resulting from cyber incidents.
+Claroty [published](https://web-assets.claroty.com/resource-downloads/cps-survey-business-disruptions.pdf) a report from an independent global survey that interviewed 1,100 cybersecurity professionals responsible for the protection of cyber-physical systems (CPS). CPS encompasses operational technology (OT), Internet of Things (IoT), connected medical devices (Internet of Medical Things [IoMT]), and building management systems (BMS). The report highlights the financial impacts and business disruptions resulting from cyber incidents.
 
 This document also incorporates data from reports by KnowBe4 and Sophos. Sophos’ [The State of Ransomware 2024](https://www.sophos.com/en-us/content/state-of-ransomware) is based on a survey conducted with 5,000 information technology (IT) and cybersecurity leaders across fourteen countries between January and February 2024.
 
