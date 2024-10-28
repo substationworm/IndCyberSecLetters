@@ -16,3 +16,4 @@
 - 2024 - Volume 01
     - [Issue 01](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue01/Issue01.md)
     - [Issue 02](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue02/Issue02.md)
+    - [Issue 03](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue03/Issue03.md)
