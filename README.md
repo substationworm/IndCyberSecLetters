@@ -14,6 +14,7 @@
 *All issues*:
 
 - 2024 - Volume 01
-    - [Issue 01](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue01/Issue01.md)
-    - [Issue 02](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue02/Issue02.md)
-    - [Issue 03](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue03/Issue03.md)
+    - [Issue 01](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue01/Issue01.md): Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means.
+    - [Issue 02](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue02/Issue02.md): OpenAI Identifies Threat Actors Using Its AI Models Against Operational Technologies.
+    - [Issue 03](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue03/Issue03.md): Financial Impacts of Ransomware Can Reach Up to US$1 Million in Critical Infrastructure.
+    - [Issue 04](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue04/Issue04.md): Weak Passwords and Poor Security Practices Persist After Six Years of NordPass Research
