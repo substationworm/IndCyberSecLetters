@@ -109,22 +109,19 @@ The findings from NordPass and NordStellar identified the **200 most commonly us
         - 💀 Dictionaries contain predefined lists of common words, phrases, and number combinations. These lists are used in automated routines to systematically compare passwords against victims' credentials.
         - 💀 Weak and easily memorable passwords are particularly susceptible to this type of attack and are often quickly compromised.
         - 💻 The following demonstration simulates a scenario in which an adversary attempts to crack the password `111111`, represented in hash format ([SHA-512](https://en.wikipedia.org/wiki/SHA-2)).
-
-![](Test01.gif "Test 01")
-
+        - ![](Test01.gif "Test 01")
     - 🗡️ Public information-based attacks.
         - 💀 Cybercriminals may collect personal data, such as names, birthdays, and other information obtained from social media platforms, to craft personalized attacks.
         - 💀 Similar to dictionary-based methods, this information is incorporated into wordlists to execute targeted attacks against specific victims.
     - 🗡️ Exhaustive attacks.
         - 💀 In this method, all possible combinations of characters are tested until the password is discovered. While effective against short passwords, its efficiency is significantly reduced when targeting long and complex passwords.
         - 💻 A simulation was conducted to illustrate the process of cracking the password `abc123`, represented as a hash ([SHA-512](https://en.wikipedia.org/wiki/SHA-2)), using the exhaustive brute-force method. The results showed that the password was cracked in just four seconds.
+        - ![](Test02.gif "Test 02")
 2. ⚔️ Phishing.
     - 💀 Even complex passwords are vulnerable to social engineering attacks. In this context, the use of passkeys is recommended as a replacement for traditional passwords.
     - 💀 It is crucial to enable and integrate MFA with available services, as well as implement support for fast IDentity online ([FIDO](https://fidoalliance.org/)) standards.
 3. ⚔️ Data breaches.
     - 💀 The exposure of passwords or confidential data during data breach incidents significantly increases the risk of cyberattacks, especially if passwords are reused across multiple services.
-
-![](Test02.gif "Test 02")
 
 ## 📚 References
 
