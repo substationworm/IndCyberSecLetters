@@ -4,7 +4,7 @@
 
 The [SANS 2024 Industrial Control Systems/Operational Technology (ICS/OT) Survey: The State of ICS/OT Cybersecurity](https://www.sans.org/white-papers/sans-2024-state-ics-ot-cybersecurity/), authored by [Jason D. Christopher](https://www.linkedin.com/in/jdchristopher/), was published on October 9, 2024. Based on responses from 530 professionals in the critical infrastructure sector, the report consolidates statistical data, trends, and insights into cyber threats, providing a valuable resource for asset owners and operators responsible for ICS/OT security.
 
-Additionally, this issue highlights notes on open-source intelligence (OSINT) that connect to key findings from the SANS Institute report. This edition of the [Ind.Cyber.Sec Letters](https://github.com/substationworm/IndCyberSecLetters/tree/main) is structured around the main conclusions of the survey, organized as follows:
+This edition of the [Ind.Cyber.Sec Letters](https://github.com/substationworm/IndCyberSecLetters/tree/main) is structured around the survey's main conclusions and includes notes on open-source intelligence (OSINT). The document is organized as follows:
 
 - [Respondent Profiles](#-respondent-profiles).
 - [Challenges, Threats, and Risks](#-challenges-threats-and-risks).
@@ -24,7 +24,7 @@ Additionally, this issue highlights notes on open-source intelligence (OSINT) th
 
 - 🚨 One of the primary challenges reported by respondents (65%) is the integration of legacy ICS/OT systems with modern IT environments.
 - 🚨 Half of the respondents indicated a lack of understanding among IT teams regarding the specific operational nuances of ICS/OT environments.
-- 🚨 66% of participants identified "individuals" (employees and contractors) as the primary risk to OT assets. However, only 25% allocate resources to training, recruitment, and retention of human resources.
+- 🚨 66% of participants identified "individuals" (employees and contractors) as the primary risk to OT assets. However, only 25% invest in training, recruitment, and retention of human resources.
 - 🚨 Approximately 28% of respondents do not have an incident response plan (IRP) specific to ICS assets.
 - 💸 Only 11.7% of respondents reported ransomware incidents in the past 12 months. Of these cases:
     - 38.1% affected IT networks only.
@@ -59,11 +59,11 @@ Additionally, this issue highlights notes on open-source intelligence (OSINT) th
 - 🛡️ 62.7% of organizations have a security operations center (SOC), with 29.4% notably having a SOC responsible for both IT and OT environments.
     - 👍 70% of organizations collect and correlate data from ICS asset servers running commercial operating systems such as Windows, Unix, or Linux.
     - 👍 63.9% collect and correlate data from ICS network devices, including firewalls, switches, routers, gateways, and others.
-    - 👍56% of organizations utilize ICS-specific threat intelligence, primarily sourced from vendors (79%).
+    - 👍 56% of organizations utilize ICS-specific threat intelligence, primarily sourced from vendors (79%).
     - 👎 Conversely, 27.7% of organizations lack a SOC, and, alarmingly, 12% have no capability to monitor their ICS/OT networks.
 - 🕹️ 62.1% of organizations have a formal policy for remote access to ICS/OT systems, while 22% operate with an informal program, and 15.9% lack such a policy or are unaware of its existence. Key capabilities developed to protect remote access include:
     - 1️⃣ Enforcement of multifactor authentication.
-    - 2️⃣ Use of a jump box to establish secure pathways
+    - 2️⃣ Use of a jump box to establish secure pathways.
     - 3️⃣ Logging of remote sessions.
     - 4️⃣ Ability to terminate suspicious or anomalous remote access.
     - 5️⃣ Regular review of all users with remote access privileges.
