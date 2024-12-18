@@ -82,18 +82,20 @@ Additionally, this issue highlights notes on open-source intelligence (OSINT) th
 
 > [!CAUTION]
 > 66% of respondents identified "individuals" (employees and contractors) as the primary risk to ICS/OT systems.
-    - 🕵️ Social media intelligence (SOCMINT).
-        - 🗃️ Sharing sensitive information on platforms such as LinkedIn or Reddit can lead to the compromise of ICS/OT assets (**oversharing**).
-        - 🗃️ Information disclosed by individuals on social media can be weaponized against them through social engineering techniques.
-    - 🪪 Open-source or scraped usernames and email addresses can be leveraged for mass phishing, spearphishing campaigns, or other techniques, such as password spraying.
-        - 🔎 Analyzing email formats and domains can enable adversaries to infer employee, contractor, or vendor contact details based on full names.
-        - 🔎 Weak passwords and password reuse, when combined with harvested email addresses, may facilitate unauthorized access to IT/OT systems. This risk has been highlighted in [Issue 04: Weak Passwords and Poor Security Practices Persist After Six Years of NordPass Research](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue04/Issue04.md).
-        - 🔎 Threat actors can determine whether an email address has been involved in data breaches or if associated passwords have been compromised, using tools like [haveibeenpwned.com](https://haveibeenpwned.com/), for example.
+
+- 🕵️ Social media intelligence (SOCMINT).
+    - 🗃️ Sharing sensitive information on platforms such as LinkedIn or Reddit can lead to the compromise of ICS/OT assets (**oversharing**).
+    - 🗃️ Information disclosed by individuals on social media can be weaponized against them through social engineering techniques.
+- 🪪 Open-source or scraped usernames and email addresses can be leveraged for mass phishing, spearphishing campaigns, or other techniques, such as password spraying.
+    - 🔎 Analyzing email formats and domains can enable adversaries to infer employee, contractor, or vendor contact details based on full names.
+    - 🔎 Weak passwords and password reuse, when combined with harvested email addresses, may facilitate unauthorized access to IT/OT systems. This risk has been highlighted in [Issue 04: Weak Passwords and Poor Security Practices Persist After Six Years of NordPass Research](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue04/Issue04.md).
+    - 🔎 Threat actors can determine whether an email address has been involved in data breaches or if associated passwords have been compromised, using tools like [haveibeenpwned.com](https://haveibeenpwned.com/), for example.
 
 > [!CAUTION]
 > 22% of organizations operate with informal programs for remote access to ICS/OT systems, while 15.9% either lack such policies or are unaware of their existence.
-    - 🔓 Internet-exposed ICS/OT assets accessible via specialized search engines, such as [Shodan.io](https://www.shodan.io/), can reveal user account details or facilitate unauthorized access, particularly in environments with poor security practices.
-    - 🐛 The identification of equipment associated with an organization's IT/OT infrastructure enables malicious actors to search for known vulnerabilities tied to specific vendors or products. For instance, as of the publication date of this issue, the [ICS Advisory Project (ICS[AP])](https://www.icsadvisoryproject.com/) lists 3,087 Cybersecurity & Infrastructure Security Agency (CISA) ICS advisories, covering 582 vendors and 2,381 products.
+    
+- 🔓 Internet-exposed ICS/OT assets accessible via specialized search engines, such as [Shodan.io](https://www.shodan.io/), can reveal user account details or facilitate unauthorized access, particularly in environments with poor security practices.
+- 🐛 The identification of equipment associated with an organization's IT/OT infrastructure enables malicious actors to search for known vulnerabilities tied to specific vendors or products. For instance, as of the publication date of this issue, the [ICS Advisory Project (ICS[AP])](https://www.icsadvisoryproject.com/) lists 3,087 Cybersecurity & Infrastructure Security Agency (CISA) ICS advisories, covering 582 vendors and 2,381 products.
 
 ## 📚 References
 
