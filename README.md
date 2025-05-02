@@ -13,6 +13,8 @@
 
 *All issues*:
 
+- 2025 - Volume 02
+    - [Issue 01](https://github.com/substationworm/IndCyberSecLetters/blob/main/2025/Issue01/Issue01.md): Data Breach at Spanish Water Utility Compromises Sensitive Information.
 - 2024 - Volume 01
     - [Issue 01](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue01/Issue01.md): Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means.
     - [Issue 02](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue02/Issue02.md): OpenAI Identifies Threat Actors Using Its AI Models Against Operational Technologies.

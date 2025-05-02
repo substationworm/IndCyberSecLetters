@@ -40,7 +40,11 @@ This is the first issue of the 2025 volume of the [Ind.Cyber.Sec Letters](https:
     - 🪪 **Sensitive information**: Contents of reports assessing the risk of water service disconnection for households in socioeconomic vulnerability, and applications for “social water meters” under social assistance programs.
 - 💀 [Aigües de Mataró (2025c)](#-references) warned customers of the potential for threat actors to exploit the leaked data through **phishing emails**, **smishing** (SMS-based phishing), or **fraudulent phone calls**.
 
-![Figure 01. Affected website as of May 01, 2025](./Fig01.png "Figure 01. Affected website as of May 01, 2025")
+<p align="center">
+  <img src="./Fig01.png" title="Figure 01. Affected website as of May 01, 2025">
+  <br>
+  <em>Figure 01. Affected website as of May 01, 2025.</em>
+</p>
 
 ## 💣 Notes on Data Breaches
 
@@ -165,7 +169,11 @@ This is the first issue of the 2025 volume of the [Ind.Cyber.Sec Letters](https:
 - SPII: Sensitive personally identifiable information.
 - WWS: Water and wastewater system.
 
-![Ind.Cyber.Sec Letters Artwork](./IndCyberSecLetters-Artwork.png "Ind.Cyber.Sec Letters Artwork")
+<p align="center">
+  <img src="./IndCyberSecLetters-Artwork.png" title="Artwork for Issue 01, Volume 02 of the Ind.Cyber.Sec Letters">
+  <br>
+  <em>Artwork for Issue 01, Volume 02 of the Ind.Cyber.Sec Letters.</em>
+</p>
 
 ---
 
