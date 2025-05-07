@@ -19,7 +19,9 @@ This is the first issue of the 2025 volume of the [Ind.Cyber.Sec Letters](https:
 | April 21, 2025 | Detection of the cyberattack [(Aigües de Mataró, 2025a)](#-references). |
 | April 22, 2025 | Evidence of ransomware activity and leakage of personal and sensitive data [(Aigües de Mataró, 2025b)](#-references). |
 | April 25, 2025 | Official communication issued to [Laboratori](https://laboratori.aiguesmataro.com/) customers [(Aigües de Mataró, 2025c)](#-references). |
+| April 30, 2025 | Official communication issued to former employees [(Aigües de Mataró, 2025d)](#-references). |
 | May 1, 2025 | Ongoing partial service disruptions affecting website functionalities (e.g., bill payment remains unavailable). |
+| May 7, 2025 | Continuation of partial service disruptions affecting website functionalities. |
 
 > [!WARNING]  
 > The incident remains under investigation and monitoring. Updates will be provided as new information becomes available.
@@ -38,6 +40,13 @@ This is the first issue of the 2025 volume of the [Ind.Cyber.Sec Letters](https:
     - 🪪 **Financial information**: Bank account numbers.
     - 🪪 **Commercial data**:  Water meter consumption readings.
     - 🪪 **Sensitive information**: Contents of reports assessing the risk of water service disconnection for households in socioeconomic vulnerability, and applications for “social water meters” under social assistance programs.
+- The data breach also encompassed information related to former employees [Aigües de Mataró (2025d)](#-references), including:
+    - 💼 **Identifying information**: Full names, government-issued ID numbers, dates of birth, signatures, mailing addresses, email addresses, and phone numbers.
+    - 💼 **Employment information**: ob titles, work history, and records of working hours.
+    - 💼 **Education**: Academic qualifications, professional certifications, resumes, and work experience.
+    - 💼 **Geolocation**: Geolocation data from company-assigned vehicles.
+    - 💼 **Financial information**: Payroll records and bank account numbers.
+    - 💼 **Other data**: Union affiliation and disability status.
 - 💀 [Aigües de Mataró (2025c)](#-references) warned customers of the potential for threat actors to exploit the leaked data through **phishing emails**, **smishing** (SMS-based phishing), or **fraudulent phone calls**.
 
 <p align="center">
@@ -142,9 +151,10 @@ This is the first issue of the 2025 volume of the [Ind.Cyber.Sec Letters](https:
 
 ## 📚 References
 
-- Aigües de Mataró. (2025, April 22). *Incident de ciberseguretat a Aigües de Mataró*. [Link](https://www.aiguesmataro.com/docs/20250422_Comunicat_Aigues_Mataro.pdf)
-- Aigües de Mataró. (2025, April 23). *Comunicat d'Aigües de Mataró del dia 23 d'abril de 2025*. [Link](https://www.aiguesmataro.com/docs/20250423_Comunicat_Aigues_Mataro.pdf)
-- Aigües de Mataró. (2025, April 25). *Comunicat d'Aigües de Mataró per a clients de laboratori*. [Link](https://laboratori.aiguesmataro.com/docs/20250425_Comunicat_Laboratori_Aigues_Mataro.pdf)
+- Aigües de Mataró. (2025a, April 22). *Incident de ciberseguretat a Aigües de Mataró*. [Link](https://www.aiguesmataro.com/docs/20250422_Comunicat_Aigues_Mataro.pdf)
+- Aigües de Mataró. (2025b, April 23). *Comunicat d'Aigües de Mataró del dia 23 d'abril de 2025*. [Link](https://www.aiguesmataro.com/docs/20250423_Comunicat_Aigues_Mataro.pdf)
+- Aigües de Mataró. (2025c, April 25). *Comunicat d'Aigües de Mataró per a clients de laboratori*. [Link](https://laboratori.aiguesmataro.com/docs/20250425_Comunicat_Laboratori_Aigues_Mataro.pdf)
+- Aigües de Mataró. (2025d, April 30). *Comunicat d'Aigües de Mataró per a extreballadors d'Aigües de Mataró*. [Link](https://www.aiguesmataro.com/docs/20250430_Comunicat_exTreballadors.pdf)
 - Ajuntament de Mataró. (2025, April 22). *Incident de ciberseguretat a Aigües de Mataró*. [Link](https://web.archive.org/web/20250501185502/https://www.mataro.cat/ca/actualitat/noticies/2025/incident-en-materia-de-ciberseguretat-a-aigues-de-mataro)
 - Capgròs. (2025, April 22). *La compañía Aigües de Mataró sufre un ciberataque*. [Link](https://capgros.elnacional.cat/es/sucesos/compania-aigues-mataro-sufre-ciberataque_815388_102.html)
 - CyberMaterial. (2025, April 24). *Aigües de Mataró Hit by Ransomware Attack*. [Link](https://web.archive.org/web/20250425130035/https://cybermaterial.com/aigues-de-mataro-hit-by-ransomware-attack/)
@@ -158,9 +168,10 @@ This is the first issue of the 2025 volume of the [Ind.Cyber.Sec Letters](https:
 
 - [Wayback Machine capture – May 1, 2025](https://web.archive.org/web/20250501135857/https://www.aiguesmataro.com/)
 - [Wayback Machine capture – April 25, 2025](https://web.archive.org/web/20250425162230/https://www.aiguesmataro.com/)
-- 📄 [Comunicat del dia 22 d'abril de 2025](./20250422Comunicat.pdf)
-- 📄 [Comunicat del dia 23 d'abril de 2025](./20250423Comunicat.pdf)
+- 📄 [Comunicat del dia 30 d'abril de 2025](./20250430Comunicat.pdf)
 - 📄 [Comunicat del dia 25 d'abril de 2025](./20250425Comunicat-Laboratori.pdf)
+- 📄 [Comunicat del dia 23 d'abril de 2025](./20250423Comunicat.pdf)
+- 📄 [Comunicat del dia 22 d'abril de 2025](./20250422Comunicat.pdf)
 
 ## 🔖 Nomenclature
 
