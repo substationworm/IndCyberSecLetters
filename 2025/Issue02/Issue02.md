@@ -2,7 +2,7 @@
 
 # 📰 Issue 02: Insights from Waterfall-ICS STRIVE Threat Reports and the Cyber Sabotage at Iranian Steel Plants in 2022
 
-In the second issue of the 2025 volume of [Ind.Cyber.Sec Letters](indcybersecletters), the **[2024](2024waterfall-icsstrive) and [2025](2025waterfall-icsstrive) Operational Technology (OT) Cyber Threat Reports** published by [Waterfall Security Solutions](waterfall), in collaboration with [ICS STRIVE](icsstrive), are reviewed. This issue also provides an in-depth analysis of the 2022 cyber sabotage targeting Iran’s [Khouzestan Steel Company (KSC)](khouzestan), [Mobarakeh Steel Company (MSC)](mobarakeh), and [Hormozgan Steel Company (HOSCO)](hosco), which resulted in a fire at one facility and the halting of production lines. The attack was attributed to the threat actor **Predatory Sparrow**.
+In the second issue of the 2025 volume of [Ind.Cyber.Sec Letters][indcybersecletters], the **[2024][2024waterfall-icsstrive] and [2025][2025waterfall-icsstrive] Operational Technology (OT) Cyber Threat Reports** published by [Waterfall Security Solutions][waterfall], in collaboration with [ICS STRIVE][icsstrive], are reviewed. This issue also provides an in-depth analysis of the 2022 cyber sabotage targeting Iran’s [Khouzestan Steel Company (KSC)][khouzestan], [Mobarakeh Steel Company (MSC)][mobarakeh], and [Hormozgan Steel Company (HOSCO)](hosco), which resulted in a fire at one facility and the halting of production lines. The attack was attributed to the threat actor **Predatory Sparrow**.
 
 ## 📑 Table of Contents
 
@@ -13,7 +13,7 @@ In the second issue of the 2025 volume of [Ind.Cyber.Sec Letters](indcyberseclet
 
 ## 📊 Insights from Waterfall-ICS STRIVE Threat Reports
 
-The [2024](2024waterfall-icsstrive) and [2025](2025waterfall-icsstrive) OT Cyber Threat Reports, issued by [Waterfall Security Solutions](waterfall) and [ICS STRIVE](icsstrive), focus specifically on cyberattacks that lead to **physical consequences**, going beyond data breaches or denial-of-service events. Notably, all incidents included in the reports are based on **open-source intelligence (OSINT)**.
+The [2024][2024waterfall-icsstrive] and [2025][2025waterfall-icsstrive] OT Cyber Threat Reports, issued by [Waterfall Security Solutions][waterfall] and [ICS STRIVE][icsstrive], focus specifically on cyberattacks that lead to **physical consequences**, going beyond data breaches or denial-of-service events. Notably, all incidents included in the reports are based on **open-source intelligence (OSINT)**.
 
 <p align="center">
   <img src="./Fig01.png" title="Figura 01. Overview of the methodology and criteria used for including cyber incidents in the threat reports">
@@ -28,7 +28,7 @@ The [2024](2024waterfall-icsstrive) and [2025](2025waterfall-icsstrive) OT Cyber
   - In 2023, 11 financial or regulatory disclosures were made in relation to cyber incidents. These public statements were issued either to inform stakeholders or to meet mandatory reporting obligations.
   - ⚠️ Additionally, 2023 saw a nation-state cyberattack with physical consequences: an operation attributed to Iran targeted a small water utility cooperative near Erris, Ireland.
 - 💀 **2024**: **76** incidents were recorded that met the inclusion criteria outlined in Figure 01.
-  - ⚠️ There was a notable increase in the number of nation-state cyberattacks with physical consequences, with a total of six such incidents. [Waterfall Security Solutions (2025)](2025waterfall-icsstrive) notes that most of these attacks were linked to one of the following geopolitical conflicts:
+  - ⚠️ There was a notable increase in the number of nation-state cyberattacks with physical consequences, with a total of six such incidents. [Waterfall Security Solutions (2025)][2025waterfall-icsstrive] notes that most of these attacks were linked to one of the following geopolitical conflicts:
     - The Russo-Ukrainian war.
     - The Israel–Hamas war (with Iran acting as a proxy).
     - The Western Democracies–China Grey Zone conflict.
@@ -65,18 +65,18 @@ The [2024](2024waterfall-icsstrive) and [2025](2025waterfall-icsstrive) OT Cyber
   - 👉 Reducing downtime to acceptable levels, or
   - 👉 Fully eliminating the IT dependency where feasible.
 - 🛡️ [Waterfall Security Solutions (2025)](#-references) argues that **safety-critical OT networks require significantly higher levels of security and resilience than traditional IT networks**, as they must be designed to withstand all possible inputs and threats scenarios. In contrast, IT networks—due to their continuous exposure to the Internet—cannot be secured to the same degree.
-- 🛡️ Finally, the [2024](2024waterfall-icsstrive) report places strong emphasis on the initiative led by the [Idaho National Laboratory (INL)](inl): **Cyber-Informed Engineering (CIE)**. This framework is presented as a critical defensive development for OT systems. It includes a set of guiding questions that engineers and cybersecurity professionals should consider when designing or assessing OT security programs.
-  - 🔗 [Cyber-Informed Engineering (CIE)](cie).
-- 🛡️ The [2025](2025waterfall-icsstrive) report emphasizes a key recommendation issued by the [Cybersecurity and Infrastructure Security Agency (CISA)](cisa), in collaboration with international authorities: the adoption of **hardware-enforced remote access for high-consequence OT networks**. This approach is presented as a more secure alternative to conventional virtual private network (VPN) solutions and jump hosts.
-  - 🔗 [Modern Approaches to Network Access Security](2024cisa).
-- 🛡️ The [2025](2025waterfall-icsstrive) report also highlights the release of the **Principles of Operational Technology Cyber Security**, authored by several international government agencies. This document outlines six foundational principles, each accompanied by guiding questions to support decision-making in OT cyber defense strategies. The principles are:
+- 🛡️ Finally, the [2024][2024waterfall-icsstrive] report places strong emphasis on the initiative led by the [Idaho National Laboratory (INL)][inl]: **Cyber-Informed Engineering (CIE)**. This framework is presented as a critical defensive development for OT systems. It includes a set of guiding questions that engineers and cybersecurity professionals should consider when designing or assessing OT security programs.
+  - 🔗 [Cyber-Informed Engineering (CIE)][cie].
+- 🛡️ The [2025][2025waterfall-icsstrive] report emphasizes a key recommendation issued by the [Cybersecurity and Infrastructure Security Agency (CISA)][cisa], in collaboration with international authorities: the adoption of **hardware-enforced remote access for high-consequence OT networks**. This approach is presented as a more secure alternative to conventional virtual private network (VPN) solutions and jump hosts.
+  - 🔗 [Modern Approaches to Network Access Security][2024cisa].
+- 🛡️ The [2025][2025waterfall-icsstrive] report also highlights the release of the **Principles of Operational Technology Cyber Security**, authored by several international government agencies. This document outlines six foundational principles, each accompanied by guiding questions to support decision-making in OT cyber defense strategies. The principles are:
   - 🏰 **Principle 1**: Safety is paramount.
   - 🏰 **Principle 2**: Knowledge of the business is crucial.
   - 🏰 **Principle 3**: OT data is extremely valuable and needs to be protected.
   - 🏰 **Principle 4**: Segment and segregate OT from all other networks.
   - 🏰 **Principle 5**: The supply chain must be secure.
   - 🏰 **Principle 6**: People are essential for OT cyber security.
-    - 🔗 [Principles of Operational Technology Cyber Security](principlesotcybersec)
+    - 🔗 [Principles of Operational Technology Cyber Security][principlesotcybersec].
 
 ## 🕵️‍♂️ Cyber Sabotage at Iranian Steel Plants in 2022
 
@@ -90,14 +90,14 @@ The [2024](2024waterfall-icsstrive) and [2025](2025waterfall-icsstrive) OT Cyber
   - 🔗 [Twitter/X](https://x.com/GonjeshkeDarand).
   - 🔗 [Telegram](https://t.me/GonjeshkeDarandeOfficial).
 - **Targeted Organizations**:
-  - 🧑‍🏭 [Khouzestan Steel Company (KSC)](khouzestan).
-  - 🧑‍🏭 [Mobarakeh Steel Company (MSC)](mobarakeh).
+  - 🧑‍🏭 [Khouzestan Steel Company (KSC)][khouzestan].
+  - 🧑‍🏭 [Mobarakeh Steel Company (MSC)][mobarakeh].
   - 🧑‍🏭 [Hormozgan Steel Company (HOSCO)](hosco).
 - **Identified Locations**:
   - 🇮🇷 KSC – Khuzestan Province, Iran ([31.27014450917057, 48.732462412324395](https://maps.app.goo.gl/2jCACZ77XHTBwSGX9)).
   - 🇮🇷 MSC Complex – Mobarakeh, Isfahan Province, Iran ([32.247440032570516, 51.42825033362824](https://maps.app.goo.gl/gdGLCRWv7qCrk5WL8)).
 - **Date of Main Incident**: June 27, 2022.
-- ⭐ **Cyber Incident Tracker for Electric Power Systems (CITEPS)**: [2022PredatorySparrow](citeps) (Category: ☠️ *Critical*).
+- ⭐ **Cyber Incident Tracker for Electric Power Systems (CITEPS)**: [2022PredatorySparrow][citeps] (Category: ☠️ *Critical*).
 
 <p align="center">
   <img src="./Fig02.gif" title="Figure 02. CCTV footage excerpt published by Predatory Sparrow">
@@ -105,17 +105,17 @@ The [2024](2024waterfall-icsstrive) and [2025](2025waterfall-icsstrive) OT Cyber
   <em>Figure 02. CCTV footage excerpt published by Predatory Sparrow.</em>
 </p>
 
-- A video (Figure 02) originally published by Predatory Sparrow on June 27, 2022, via Twitter/X and Telegram [(Supporting Evidence 1)](#-supporting-evidences), allegedly captured by a closed-circuit television (CCTV) system, depicts a cyberattack with physical consequences—**specifically, the spill of molten steel onto the factory floor at [KSC](khouzestan)** [(Greenberg, 2024)](#-references). Predatory Sparrow claimed responsibility for the attack, asserting it was conducted in a manner intended to avoid harming workers, although the feasibility of such control remains questionable.
-  - Multiple news outlets, including some based in Iran [(Iran Press News, 2022)](#-references), linked the footage to [KSC](khouzestan) [(Supporting Evidence 2)](#-supporting-evidences).
-  - The semi-official [Mehr News Agency](mehrnews) [(2022)](#-references) reported statements from Amin Ebrahimi, chief executive officer (CEO) of [KSC](khouzestan), who confirmed the cyberattack but stated that it had been contained. He added that some operations were switched to manual mode, and that the defensive measures prevented disruptions to supply chains and customers [(Debre, 2022)](#-references).
-  - It appears that **[KSC](khouzestan)’s production line was indeed halted at the time** [(ICS STRIVE, 2022; The New Arab, 2022; Radiflow, 2022; Tidy, 2022)](#-references). However, conflicting reports suggest the cyberattack may have had limited effect, as the factory was already non-operational due to a power outage [(Supporting Evidence 2](#-supporting-evidences)[; Vicens, 2022)](#-references).
+- A video (Figure 02) originally published by Predatory Sparrow on June 27, 2022, via Twitter/X and Telegram [(Supporting Evidence 1)](#-supporting-evidences), allegedly captured by a closed-circuit television (CCTV) system, depicts a cyberattack with physical consequences—**specifically, the spill of molten steel onto the factory floor at [KSC][khouzestan]** [(Greenberg, 2024)](#-references). Predatory Sparrow claimed responsibility for the attack, asserting it was conducted in a manner intended to avoid harming workers, although the feasibility of such control remains questionable.
+  - Multiple news outlets, including some based in Iran [(Iran Press News, 2022)](#-references), linked the footage to [KSC][khouzestan] [(Supporting Evidence 2)](#-supporting-evidences).
+  - The semi-official [Mehr News Agency][mehrnews] [(2022)](#-references) reported statements from Amin Ebrahimi, chief executive officer (CEO) of [KSC][khouzestan], who confirmed the cyberattack but stated that it had been contained. He added that some operations were switched to manual mode, and that the defensive measures prevented disruptions to supply chains and customers [(Debre, 2022)](#-references).
+  - It appears that **[KSC][khouzestan]’s production line was indeed halted at the time** [(ICS STRIVE, 2022; The New Arab, 2022; Radiflow, 2022; Tidy, 2022)](#-references). However, conflicting reports suggest the cyberattack may have had limited effect, as the factory was already non-operational due to a power outage [(Supporting Evidence 2](#-supporting-evidences)[; Vicens, 2022)](#-references).
 - On the same day (June 27, 2022), Predatory Sparrow released three images allegedly related to the incident [(Supporting Evidence 3)](#-supporting-evidences):
   - A screenshot (Figure 03) of CCTV footage timestamped June 26, 2022, 18:39:22, depicting the same location as in the previously mentioned video.
-    - [Supporting Evidence 4](#-supporting-evidences) is a video segment from a news report concerning [KSC](khouzestan). Starting at the 28-second mark (see Figure 04), the video reveals an internal surveillance monitoring setup composed of multiple monitors. The visual format and timestamp positioning exhibit notable similarities to Figures 02 and 03.
-  - A screenshot (Figure 05) of a SCADA interface, timestamped June 26, 2022, 18:37:59, featuring the logos of [KSC](khouzestan) and the [International Systems Engineering & Automation Company (IRISA)](irisa), a company headquartered in Isfahan, Iran, that provides industrial automation, IT, and cybersecurity services.
-    - [Supporting Evidence 5](#-supporting-evidences) indicates that [KSC](khouzestan) was a client and end-user in an industrial automation project led by [IRISA](irisa), focused on Siemens-based systems.
-  - A screenshot (Figure 06) of a network monitoring dashboard from [PRTG Network Monitor](prtg), version 17.3.33.2753+, developed by [PAESSLER](paessler), timestamped June 26, 2022, 19:03:46. The interface displays graphical monitoring of network assets such as routers, switches, firewalls, and wireless controllers.
-    - At the time, [PRTG Network Monitor](prtg) had several known vulnerabilities, some of which were rated as high as 9.0 under the common vulnerability scoring system (CVSS) 9.0, as indicated by [Supporting Evidence 6](#-references).
+    - [Supporting Evidence 4](#-supporting-evidences) is a video segment from a news report concerning [KSC][khouzestan]. Starting at the 28-second mark (see Figure 04), the video reveals an internal surveillance monitoring setup composed of multiple monitors. The visual format and timestamp positioning exhibit notable similarities to Figures 02 and 03.
+  - A screenshot (Figure 05) of a SCADA interface, timestamped June 26, 2022, 18:37:59, featuring the logos of [KSC][khouzestan] and the [International Systems Engineering & Automation Company (IRISA)][irisa], a company headquartered in Isfahan, Iran, that provides industrial automation, IT, and cybersecurity services.
+    - [Supporting Evidence 5](#-supporting-evidences) indicates that [KSC][khouzestan] was a client and end-user in an industrial automation project led by [IRISA][irisa], focused on Siemens-based systems.
+  - A screenshot (Figure 06) of a network monitoring dashboard from [PRTG Network Monitor][prtg], version 17.3.33.2753+, developed by [PAESSLER][paessler], timestamped June 26, 2022, 19:03:46. The interface displays graphical monitoring of network assets such as routers, switches, firewalls, and wireless controllers.
+    - At the time, [PRTG Network Monitor][prtg] had several known vulnerabilities, some of which were rated as high as 9.0 under the common vulnerability scoring system (CVSS) 9.0, as indicated by [Supporting Evidence 6](#-references).
 
 <p align="center">
   <img src="./Fig03.png" title="Figure 03. Screenshot of CCTV footage released by Predatory Sparrow">
@@ -142,8 +142,8 @@ The [2024](2024waterfall-icsstrive) and [2025](2025waterfall-icsstrive) OT Cyber
 </p>
 
 - On the same day as the main incident (June 27, 2022), there were reports of IT system outages and disruptions to official websites, see [Supporting Evidence 7](#-references) and other sources [(Debre, 2022; Vicens, 2022)](#-references).
-- Beginning on June 7, 2022, Predatory Sparrow also published new images and a video related to the cyber incident on its Twitter/X account (see [Supporting Evidences 8, 9, and 10](#-supporting-evidences)). [Supporting Evidence 10](#-supporting-evidences), in particular, displays an overhead view of the factory floor of one of the targeted companies (see Figure 07). By comparing this image with a frame obtained from [Supporting Evidence 11](#-supporting-evidences), it is confirmed that the factory floor belongs to [MSC](mobarakeh). Figure 08 further illustrates the identification of the [MSC](mobarakeh) logo in frames extracted from [Supporting Evidence 11](#-supporting-evidences).
-- Additionally, company data began to leak through file shares hosted on [MEGA](mega), allegedly including internal documents and emails ([Supporting Evidences 12, 13, and 14](#-references)). The apparent motivation behind these leaks was to associate the targeted companies with the Iranian Revolutionary Guard Corps (IRGC). As of now, the publicly accessible links total over **65 GB of data**.
+- Beginning on June 7, 2022, Predatory Sparrow also published new images and a video related to the cyber incident on its Twitter/X account (see [Supporting Evidences 8, 9, and 10](#-supporting-evidences)). [Supporting Evidence 10](#-supporting-evidences), in particular, displays an overhead view of the factory floor of one of the targeted companies (see Figure 07). By comparing this image with a frame obtained from [Supporting Evidence 11](#-supporting-evidences), it is confirmed that the factory floor belongs to [MSC][mobarakeh]. Figure 08 further illustrates the identification of the [MSC][mobarakeh] logo in frames extracted from [Supporting Evidence 11](#-supporting-evidences).
+- Additionally, company data began to leak through file shares hosted on [MEGA][mega], allegedly including internal documents and emails ([Supporting Evidences 12, 13, and 14](#-references)). The apparent motivation behind these leaks was to associate the targeted companies with the Iranian Revolutionary Guard Corps (IRGC). As of now, the publicly accessible links total over **65 GB of data**.
 
 <p align="center">
   <img src="./Fig07.png" title="Figure 07. Visual comparison between an image—likely a screenshot from CCTV footage—released by Predatory Sparrow, and a frame extracted from a YouTube video (Supporting Evidence 11)">
@@ -193,8 +193,8 @@ The [2024](2024waterfall-icsstrive) and [2025](2025waterfall-icsstrive) OT Cyber
 - Umawing, J. (2022, July 13). *Predatory Sparrow Massively Disrupts Steel Factories While Keeping Workers Safe*. [Link](https://web.archive.org/web/20241230150700/https://www.threatdown.com/blog/predatory-sparrow-massively-disrupts-steel-factories-while-keeping-workers-safe/)
 - United States Department of Energy. (2023, August 7). *Cyber-Informed Engineering Implementation Guide* (INL/RPT-23-74072). Office of Cybersecurity, Energy Security, and Emergency Response. [Link](https://web.archive.org/web/20250309232137/https://inldigitallibrary.inl.gov/sites/sti/sti/Sort_67122.pdf)
 - Vicens, A. (2022, June 27). *Iranian Steel Facilities Suffer Apparent Cyberattacks*. CyberScoop. [Link](https://web.archive.org/web/20250503092825/https://cyberscoop.com/iran-cyberattack-israel-hacktivist-steel-ics/)
-- Waterfall Security Solutions. (2024). *2024 Threat Report*. [Link](2024waterfall-icsstrive)
-- Waterfall Security Solutions. (2025). *2025 Threat Report*. [Link](2025waterfall-icsstrive)
+- Waterfall Security Solutions. (2024). *2024 Threat Report*. [Link][2024waterfall-icsstrive]
+- Waterfall Security Solutions. (2025). *2025 Threat Report*. [Link][2025waterfall-icsstrive]
 
 ## 🔖 Nomenclature
 
