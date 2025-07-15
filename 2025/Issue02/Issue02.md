@@ -8,7 +8,7 @@ In the second issue of the 2025 volume of [Ind.Cyber.Sec Letters][indcyberseclet
 
 - [📊 Insights from Waterfall-ICS STRIVE Threat Reports](#-insights-from-waterfall-ics-strive-threat-reports).
 - [🕵️‍♂️ Cyber Sabotage at Iranian Steel Plants in 2022](#️️-cyber-sabotage-at-iranian-steel-plants-in-2022).
-- [🕵️‍♂️ Investigation via the StealthMole Platform (*added on July 14, 2025*)](#️️-investigation-via-the-stealthmole-platform-added-on-july-14-2025)
+- [🕵️‍♂️ Investigation via the StealthMole Platform (*added on July 14, 2025*)](#️️-investigation-via-the-stealthmole-platform-added-on-july-14-2025).
 - [🔍 Supporting Evidence](#-supporting-evidence).
 - [📚 References](#-references).
 
@@ -163,7 +163,7 @@ The [2024][2024waterfall-icsstrive] and [2025][2025waterfall-icsstrive] OT Cyber
 <p align="center">
   <img src="./Fig09.png" title="Figure 09. Node graph representation of messages, posts, and other data by the group Predatory Sparrow, generated using the StealthMole platform.">
   <br>
-  <em>Figure 09. Node graph representation of messages, posts, and other data by the group Predatory Sparrow, generated using the StealthMole platform.</em>
+  <em>Figure 09. Node graph representation of messages, posts, and other data attributed to the group Predatory Sparrow, generated using the StealthMole platform.</em>
 </p>
 
 An investigation into the 2022 cyber sabotage targeting Iranian steel plants was conducted using the [StealthMole][stealthmole] platform. In certain instances, the analysis extended beyond this particular incident to include cyber operations attributed to the same threat actor. The key findings of this investigation are presented and discussed below:
