@@ -123,6 +123,14 @@ The findings from NordPass and NordStellar identified the **200 most commonly us
 3. ⚔️ Data breaches.
     - 💀 The exposure of passwords or confidential data during data breach incidents significantly increases the risk of cyberattacks, especially if passwords are reused across multiple services.
 
+## 🕵️‍♂️ Investigation via the StealthMole Platform (*added on July 22, 2025*)
+
+<p align="center">
+  <img src="./Fig01.png" title="Figure 01. Number of leaked accounts on the Dark and Deep Web using the top 5 most common passwords in Brazil identified through the StealthMole platform.">
+  <br>
+  <em>Figure 01. Number of leaked accounts on the Dark and Deep Web using the top 5 most common passwords in Brazil identified through the StealthMole platform.</em>
+</p>
+
 ## 📚 References
 
 - Cybersecurity & Infrastructure Security Agency. (2024). *Use Strong Passwords*. Secure Our World. [Link](https://www.cisa.gov/secure-our-world/use-strong-passwords)
