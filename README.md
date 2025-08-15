@@ -20,6 +20,7 @@
     - [CTI-Brief 02](https://github.com/substationworm/IndCyberSecLetters/blob/main/2025/CTI-Brief02.pdf): Number of Leaked Accounts on the Dark and Deep Web Using the Top 5 Most Common Passwords in Brazil.
     - [CTI-Brief 03](https://github.com/substationworm/IndCyberSecLetters/blob/main/2025/CTI-Brief03.pdf): CyberAv3ngers: Profiling Operational Technology Threat Actors Using StealthMole's Platform.
     - [CTI-Brief 04](https://github.com/substationworm/IndCyberSecLetters/blob/main/2025/CTI-Brief04/CTI-Brief04.md): Notes on FunkSec and an Affiliated Threat Actor.
+    - [CTI-Brief 05](https://github.com/substationworm/IndCyberSecLetters/blob/main/2025/CTI-Brief05/CTI-Brief05.md): Profiling a Cybercriminal Linked to Recent Cyber Incidents in Nepal.
 - 2024 - Volume 01
     - [Issue 01](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue01/Issue01.md): Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means.
     - [Issue 02](https://github.com/substationworm/IndCyberSecLetters/blob/main/2024/Issue02/Issue02.md): OpenAI Identifies Threat Actors Using Its AI Models Against Operational Technologies.
