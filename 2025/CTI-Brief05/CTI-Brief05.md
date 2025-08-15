@@ -1,6 +1,6 @@
 ![Ind.Cyber.Sec Letters Banner](./IndCyberSecLetters-Header.png)
 
-# 📰 CTI-Brief 05: Profiling a Cybercriminal Linked to Recent Cyber Incidents in Nepal
+# 📰 CTI-Brief 05: Profiling a Threat Actor Linked to Recent Cyber Incidents in Nepal
 
 This document contains notes on cyber incidents involving the online persona `kazu`, along with an assessment of the subject's digital footprint. Figure 1 provides an overview of the investigations conducted via the [StealthMole](https://www.stealthmole.com/)'s platform.
 
