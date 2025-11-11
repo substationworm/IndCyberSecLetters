@@ -16,6 +16,7 @@
 - 2025 - Volume 02
     - [Issue 01](https://github.com/substationworm/IndCyberSecLetters/blob/main/2025/Issue01/Issue01.md): Data Breach at Spanish Water Utility Compromises Sensitive Information.
     - [Issue 02](https://github.com/substationworm/IndCyberSecLetters/blob/main/2025/Issue02/Issue02.md): Insights from Waterfall-ICS STRIVE Threat Reports and the Cyber Sabotage at Iranian Steel Plants in 2022.
+    - [Issue 03](https://github.com/substationworm/IndCyberSecLetters/blob/main/2025/Issue03.pdf): Understanding Insider Threats.
     - [CTI-Brief 01](https://github.com/substationworm/IndCyberSecLetters/blob/main/2025/CTI-Brief01.pdf): Your Personal Data and Official Documents Might Be for Sale on the Dark Web - And You Don't Even Know It.
     - [CTI-Brief 02](https://github.com/substationworm/IndCyberSecLetters/blob/main/2025/CTI-Brief02.pdf): Number of Leaked Accounts on the Dark and Deep Web Using the Top 5 Most Common Passwords in Brazil.
     - [CTI-Brief 03](https://github.com/substationworm/IndCyberSecLetters/blob/main/2025/CTI-Brief03.pdf): CyberAv3ngers: Profiling Operational Technology Threat Actors Using StealthMole's Platform.
